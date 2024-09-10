@@ -1,4 +1,5 @@
 *{
+    outline: 2px solid red;
     font-family: sans-serif;
     background-color: wheat;
 }
@@ -13,6 +14,10 @@ h1{
     width: 800px;
     font-size: 20px;
     text-align: center;
-    margin-left: 200px;
+    margin-left: 500px;
     padding: 70px;
+}
+
+a{
+    display:block;
 }
