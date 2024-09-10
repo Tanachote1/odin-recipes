@@ -1,23 +1,23 @@
 *{
-    outline: 2px solid red;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: sans-serif;
     background-color: wheat;
 }
 
-h1{
-    text-align: center;
+.title{
+    margin: 10px;
+}
+
+h2{
+    margin: 10px;
 }
 
 .container{
-    background-color: white;
-    height: 70px;
-    width: 800px;
-    font-size: 20px;
-    text-align: center;
-    margin-left: 500px;
-    padding: 70px;
 }
 
 a{
-    display:block;
+    display: block;
+    margin: 10px;
 }
